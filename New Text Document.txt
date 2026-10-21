@@ -1,2 +1,9 @@
 # Numpy is a for numerical computation...
 # It is a Homogeneous Data consists of same data type...
+# It is Fast and optimized storage far better than list...
+Difference b/w numpy arrays and python lists
+1.Numpy arrays are Faster
+2.Stores data in Continuous memory blocks
+3.uses less memory
+4.Built in mathematical functions
+5.Supports direct vectorized operations
